@@ -4,3 +4,6 @@
 2. install requirements.txt
 3. enter you api keys
 4. then use the API
+
+
+## contact me if you gott problem running it sobanpythonista@gmail.com
