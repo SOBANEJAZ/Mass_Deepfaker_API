@@ -1,2 +1,6 @@
-# api-testing
-i made this github repo to test my only text to video api.
+# Mass Deepfake creater
+## how to run:
+1. just clone the repo
+2. install requirements.txt
+3. enter you api keys
+4. then use the API
