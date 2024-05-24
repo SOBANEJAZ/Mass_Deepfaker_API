@@ -1,4 +1,4 @@
-# Mass Deepfake creater
+# Mass Deepfake API
 ## how to run:
 1. just clone the repo
 2. install requirements.txt
